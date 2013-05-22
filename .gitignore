@@ -2,6 +2,11 @@
 *.slo
 *.lo
 *.o
+*.DS_Store
+*.svn
+*.cproject
+.project
+*.settings
 
 # Compiled Dynamic libraries
 *.so
